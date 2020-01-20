@@ -1,0 +1,2 @@
+# 30dayshackerearthchallenges
+python codes
